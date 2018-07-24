@@ -1,0 +1,8 @@
+#show active branch
+git branch
+
+#create new branch
+git branch BRANCHNAME
+
+#change working branch
+git checkout BRANCHNAME
