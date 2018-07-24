@@ -6,3 +6,12 @@ git branch BRANCHNAME
 
 #change working branch
 git checkout BRANCHNAME
+
+#merge branch with master
+git merge BRANCHNAME
+
+#delete branch
+git branch -d BRANCHNAME
+
+#create new branch and make active
+git checkout -b BRANCHANAME
