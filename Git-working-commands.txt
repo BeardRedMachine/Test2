@@ -1,0 +1,13 @@
+Git working commands
+
+#Show status of commits
+git status
+
+#show history
+git log
+
+#commit changes in directory
+git commit
+
+#add a file to be committed
+git add {{FILENAME}}
