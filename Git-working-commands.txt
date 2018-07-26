@@ -55,3 +55,9 @@ git branch -d {{Branchname}}
 
 #prune references
 git fetch origin --prune
+
+#add remote repo via ssh
+git remote add origin git@github.com:<Username>/<Project>.git
+
+#change remote repo url
+git remote set-url origin git@github.com:<Username>/<Project>.git
